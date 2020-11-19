@@ -1,0 +1,1 @@
+# libvirt-blockcopy-bug
